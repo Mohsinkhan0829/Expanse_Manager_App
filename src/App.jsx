@@ -1,7 +1,7 @@
 import NavBar from './components/navbar'
 import BalanceSection from './components/BalanceSection'
 import ListGroup from './components/ListGroup'
-import MainSection from './components/mainsection'
+import MainSection from './components/MainSection'
 import { TransactionProvider } from './context/TransactionContext'
 
 const App = () => {
